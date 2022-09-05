@@ -4,9 +4,7 @@
 <img align="right" alt="Coding" width="400" src=https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmdaathif&label=Profile%20views&color=0e75b6&style=flat" alt="mhmdaathif" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhmdaathif" alt="mhmdaathif" /></a> </p>
-
+                                                                                                                                                                                                                                                                           
 - 🔭 I’m currently working on **System**
 
 - 🌱 I’m currently learning **react native,springboot and angular.js**
