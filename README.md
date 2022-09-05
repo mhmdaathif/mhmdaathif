@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Jc0m_qBvjIMjgwTwC9gVhL2x5W0POWzI/view?usp=sharing](https://drive.google.com/file/d/1Jc0m_qBvjIMjgwTwC9gVhL2x5W0POWzI/view?usp=sharing)
 
-- ⚡ Profile **I am a 3rd year Software Engineering undergraduate having experience on using Java, PHP, JavaScript technologies to create and implement software and applications. I consider myself to be a very dedicated, hardworking, confident and honest individual who can adjust to any environment and perform efficiently. I am open to new ideas and willing to learn new things and change accordingly. Teamwork is my cup of tea, but I love working independently too. I am confident that I’d be an asset to the company I work for.**
+- ⚡ Profile - **I am a 3rd year Software Engineering undergraduate having experience on using Java, PHP, JavaScript technologies to create and implement software and applications. I consider myself to be a very dedicated, hardworking, confident and honest individual who can adjust to any environment and perform efficiently. I am open to new ideas and willing to learn new things and change accordingly. Teamwork is my cup of tea, but I love working independently too. I am confident that I’d be an asset to the company I work for.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
