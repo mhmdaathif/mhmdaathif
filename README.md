@@ -3,7 +3,7 @@
 <h3 align="center">A passionate software developer from SriLanka</h3>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mhmdaathif&label=Profile%20views&color=0e75b6&style=flat" alt="mhmdaathif" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mhmdaathif&label=Profile%20views&color=0e75b6&style=flat" alt="mhmdaathif" /> </p>
                                                                                                                                                                                                                                                                           
 - 🌱 I’m currently learning **react native,springboot and angular.js**
 
