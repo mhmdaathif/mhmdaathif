@@ -1,7 +1,7 @@
 <[![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)](https://it20636524.io)
 <h1 align="center">Hi 👋, I'm Mohammed Aathif</h1>
 <h3 align="center">A passionate software developer from SriLanka</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mhmdaathif&label=Profile%20views&color=0e75b6&style=flat" alt="mhmdaathif" /> </p>
                                                                                                                                                                                                                                                                           
